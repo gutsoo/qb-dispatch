@@ -2043,8 +2043,8 @@ AddEventHandler("erp-dispatch:jailbreak",function()
   AlertJailBreak()
 end)
 
-RegisterNetEvent('client:erp-dispatch:jewelrobbery')
-AddEventHandler("client:erp-dispatch:jewelrobbery",function()
+RegisterNetEvent('erp-dispatch:jewelrobbery')
+AddEventHandler("erp-dispatch:jewelrobbery",function()
   AlertJewelRob()
 end)
 
